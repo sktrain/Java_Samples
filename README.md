@@ -8,4 +8,6 @@ und meine Folien zu den Java-Basics
 - folien ------ Folien zu den Java Basics
 - samples_Eclipse ------ Programmbeispiele als Eclipse-Projekte (gezipt)
 - samples_IntelliJ ------ Programmbeispiele als IntelliJ-Projekte (gezipt)
-- samples_Maven ------ Programmbeispiele als Maven-Projekte (gezipt) 
+- samples_Maven ------ Programmbeispiele als Maven-Projekte (gezipt)
+- psi_samples_bibs ------ PSI: Beispiele zu den Bibliotheken
+- jaxb-ri-2.3.3.zip ------ JaxB-Bibliothek extern
