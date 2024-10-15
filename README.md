@@ -11,3 +11,4 @@ und meine Folien zu den Java-Basics
 - samples_Maven ------ Programmbeispiele als Maven-Projekte (gezipt)
 - psi_samples_bibs ------ PSI: Beispiele zu den Bibliotheken
 - jaxb-ri-2.3.3.zip ------ JaxB-Bibliothek extern
+- Maven_Basis_Java11 ------ Maven-Basis-Projekt
