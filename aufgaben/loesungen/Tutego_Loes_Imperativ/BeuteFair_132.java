@@ -22,7 +22,6 @@ public class BeuteFair_132 {
 		
 		//Anzahl Crew-Mitglieder
 		System.out.println("Number of crew members?");
-		s = new Scanner(System.in);
 		int crewcount = s.nextInt();
 		
 		Boolean isfair = (anzahl - anzahl/2) % crewcount == 0;
